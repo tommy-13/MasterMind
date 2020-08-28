@@ -1,7 +1,6 @@
 # MasterMind
- An implementation of the game Mastermind.
- 
- The game is implemented in german.
+An implementation of the game Mastermind. The language of the game is german.
 
-# Additional dll's
-To run the game you need to place the files OpenAL64.dll and lwjgl64.dll in the project folder.
+# External dll's
+In order to run the game, some dll's need to be included (in the project folder), depending on the operating system.
+For Windows 64-bit the necesary dll's are <i>lwjgl64.dll</i> and <i>OpenAL64.dll</i>.
