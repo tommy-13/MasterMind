@@ -1,0 +1,14 @@
+/target/
+trunk/
+safe/settings.usf
+lib/natives/
+bin/
+.settings/
+.classpath
+.project
+*.o
+*.obj
+*.lib
+*.so
+*.ogg
+*.mp3
