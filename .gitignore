@@ -12,3 +12,5 @@ bin/
 *.so
 *.ogg
 *.mp3
+OpenAl64.dll
+lwjgl64.dll
